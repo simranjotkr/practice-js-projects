@@ -26,9 +26,9 @@ function displayBaani (){
 let index = Math.floor(Math.random() * gurbani.length);
 
 let baani = `<div class="card">
-<img src="../Gurbani Quote A Day/icons/favicon.png">
+<img src="./icons/favicon.png">
 <p>${gurbani[index]}</p>
-<img src="../Gurbani Quote A Day/icons/favicon.png">
+<img src="./icons/favicon.png">
 </div>
 `;
 
